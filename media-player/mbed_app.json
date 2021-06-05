@@ -1,0 +1,8 @@
+{
+    "target_overrides": {
+        "*": {
+            "target.components_add": ["SD"],
+            "platform.callback-nontrivial":  true
+        }
+    }
+}
