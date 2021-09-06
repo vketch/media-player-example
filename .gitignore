@@ -5,3 +5,8 @@ projectfiles
 mbed-os
 BUILD
 
+videoplayer
+unigraphic
+sdio-driver
+media-player
+audioplayer
